@@ -67,10 +67,12 @@ The **Notifications Architecture** manages event-driven notifications for user a
 
 ## **Diagrams**
 ### **Looker Studio Architecture**
-![Looker Studio Architecture](LookerStudioArchitecture.png)
+<img width="499" alt="LookerStudioArchitecture" src="https://github.com/user-attachments/assets/f5a211b9-086a-4c52-90b8-1338584ae93e" />
+
 
 ### **Notifications Architecture**
-![Notifications Architecture](NotificationsArchitecture.png)
+<img width="534" alt="NotificationsArchitecture" src="https://github.com/user-attachments/assets/a7060b8d-afa5-4a39-8eac-f5e2cdcb9622" />
+
 
 ---
 ### **Author**
