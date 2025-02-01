@@ -77,9 +77,3 @@ The **Notifications Architecture** manages event-driven notifications for user a
 ![image](https://github.com/user-attachments/assets/83198804-26bc-45fd-9537-1a7836035fd1)
 
 
-
----
-### **Author**
-**Himanshi Verma**
-Cloud Solutions Architect | AWS & GCP Practitioner
-
