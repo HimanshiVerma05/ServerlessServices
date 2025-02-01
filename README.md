@@ -73,6 +73,10 @@ The **Notifications Architecture** manages event-driven notifications for user a
 ### **Notifications Architecture**
 <img width="534" alt="NotificationsArchitecture" src="https://github.com/user-attachments/assets/a7060b8d-afa5-4a39-8eac-f5e2cdcb9622" />
 
+### **System Architecture**
+![image](https://github.com/user-attachments/assets/83198804-26bc-45fd-9537-1a7836035fd1)
+
+
 
 ---
 ### **Author**
